@@ -35,13 +35,16 @@ What I Believe in When Designing Software:
         - User experiences that reduce friction and build confidence 
 
 # Featured Repositories 
-      - CS-330: Computer Graphics & Visualization
+      - CS-230: Operating Platforms
       - CS-250: Software Development Lifecylce
       - CS-255: System Analysis & Design
+      - CS-320: Software Test Automation QA
+      - CS-330: Computer Graphics & Visualization
+      - DSA Analysis and Design
       - CS-360: Mobile Architecture & Programming
       - CS-405: Secure Coding
-      - CPlusPlus Projects
-      - Additional coursework and technical artifacts
+      - CPlusPlus 
+      
 
 # My Goals 
       I'm working toward becoming a software engineer who builds meaningful, user-centered applications.
