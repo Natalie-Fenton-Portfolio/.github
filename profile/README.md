@@ -41,8 +41,6 @@ What I Believe in When Designing Software:
       - CS-320: Software Test Automation QA
       - CS-330: Computer Graphics & Visualization
       - DSA Analysis and Design
-      - CS-360: Mobile Architecture & Programming
-      - CS-405: Secure Coding
       - CPlusPlus 
       
 
